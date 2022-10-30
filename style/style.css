@@ -1,0 +1,9 @@
+a{
+    font-size: 30px;
+    color: blue;
+    text-decoration: underline;
+}
+a:active{
+    color: red;
+    text-decoration: none;
+}
